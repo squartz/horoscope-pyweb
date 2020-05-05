@@ -1,5 +1,5 @@
 var d = new Date();
-document.getElementById("date-today").innerHTML = d.toLocaleDateString();
+document.getElementById("data-today").innerHTML = d.toLocaleDateString();
 
 function set_paragraph(data) {
   $.each(data["prophecies"], function(i, d) {
