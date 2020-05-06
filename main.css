@@ -1,0 +1,17 @@
+body{
+	background: #F0F8FF;
+}
+.col-12{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	}
+
+.col-4{
+	font-size: 18px;
+}
+
+.col-4:hover{
+	color: #fff;
+	background: #609CE1;
+}
+
